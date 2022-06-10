@@ -1,2 +1,7 @@
 Link para download do git: https://git-scm.com/downloads
-o Git é um terminal estendido para otimizar o uso do Github
+o Git é um terminal estendido
+
+Link com comandos de programção Git - https://comandosgit.github.io/
+
+
+
