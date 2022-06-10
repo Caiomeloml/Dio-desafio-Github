@@ -9,6 +9,8 @@ Git Status - ver status
 Git add muda o ciclo de Untrack/ not staged para Committed
 Git add (nome da pasta ou objeto)- atualiza no repositorio pasta ou objeto especifico
 Git Add . - atualizar todos os itens
+Git commit - cria um commit
+Git Commit -m "anotação" - cria um com anotações especificas sobre o commit
 
 Git push origin main - envia todo repositorio atualizado para (main) local de origen do arquivo 
 no Github
